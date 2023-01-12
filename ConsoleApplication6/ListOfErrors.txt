@@ -1,0 +1,4 @@
+--Проверка раздела Descriptions--
+--Проверка раздела Operators--
+--Проверка разделов Begin End--
+Program's name != end's name

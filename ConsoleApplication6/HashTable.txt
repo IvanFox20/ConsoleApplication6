@@ -1,0 +1,18 @@
+[1]	KEY WORDS	return
+[2]	IntNum	20
+[3]	ID	a
+[5]	ID	b
+[6]	OPERATOR	else
+[11]	IntNum	5
+[12]	brace	}
+[14]	semicolon	;
+[17]	bracket	(
+[19]	bracket	)
+[22]	KEY WORDS	int
+[23]	brace	{
+[25]	Comma	,
+[26]	OPERATOR	if
+[27]	OPERATOR	=
+[29]	OPERATOR	>
+[30]	FUNCTION NAME	program()
+[31]	IntNum	10

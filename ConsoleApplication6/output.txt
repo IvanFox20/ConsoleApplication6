@@ -1,0 +1,5 @@
+b a int 2 DECL
+a 5 = 
+b 10 = 
+a b >  p1 !F  a 20 =  p2 !  a 10 = 
+return a

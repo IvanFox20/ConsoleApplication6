@@ -1,0 +1,53 @@
+Program
+    --Begin--
+         KEY WORDS --> int
+                   FUNCTION NAME --> program()
+    --Descriptions--
+       Descr
+        Type
+           KEY WORDS --> int
+               VarList->
+                       ID --> a
+                       Comma --> ,
+                       ID --> b
+    --Operators--
+     Op
+       ID --> a
+       OPERATOR --> =
+               Expr
+                 SimpleExpr
+                    Const --> 5
+     Op
+       ID --> b
+       OPERATOR --> =
+               Expr
+                 SimpleExpr
+                    Const --> 10
+     Op
+       OPERATOR --> if
+             Condition
+               Expr
+                 SimpleExpr
+                    ID --> a
+               RelationOperators
+                    OPERATOR --> >
+               Expr
+                 SimpleExpr
+                    ID --> b
+       bracket --> )
+     Op
+       ID --> a
+       OPERATOR --> =
+               Expr
+                 SimpleExpr
+                    Const --> 20
+       OPERATOR --> else
+     Op
+       ID --> a
+       OPERATOR --> =
+               Expr
+                 SimpleExpr
+                    Const --> 10
+    --End--
+         KEY WORDS --> return
+                   ID --> a
